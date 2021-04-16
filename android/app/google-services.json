@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096277896346",
+    "project_id": "purple-8bc2d",
+    "storage_bucket": "purple-8bc2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096277896346:android:9cf56e48a9ac5dddf38323",
+        "android_client_info": {
+          "package_name": "mathiasmendoza.purple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096277896346-5853hoj10i5flo56rfvd8resehoci10u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mathiasmendoza.purple",
+            "certificate_hash": "b451e873cca2245c01c14bef5db6a2afc05dfb5c"
+          }
+        },
+        {
+          "client_id": "1096277896346-89bl4v0ij7h4f1gmusfpp53rs7qapogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6Dn6FUs8hWA00AAaxL1D2__kZjE1DpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096277896346-89bl4v0ij7h4f1gmusfpp53rs7qapogg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
